@@ -1,4 +1,5 @@
 <h1>My First Project: An Exploratory Data Analysis Report on Airline Passenger Satisfaction Data </h1> 
+<a href = 'https://www.kaggle.com/code/ananyadevraj/eda-airline-passenger-satisfaction/notebook'> Click here to view my report directly on Kaggle </a>
 <p>This repository includes the notebook file for my data analysis report on airline passenger satisfaction data. My curiosity on this topic stemmed from the fact that
   I wanted to understand what made an airline a 'good airline.' For example,
   which factors contribute most strongly to the 'World's Best Airline Report?' How do they decide the order of the rankings?
