@@ -1,4 +1,3 @@
-<img src ='https://pilotinstitute.com/wp-content/uploads/2023/02/How-Much-Do-Airplanes-Cost.jpg'>
 <h1>My First Project: An Exploratory Data Analysis Report on Airline Passenger Satisfaction Data </h1> 
 <a href = 'https://www.kaggle.com/code/ananyadevraj/eda-airline-passenger-satisfaction/notebook'> Click here to view my report directly on Kaggle </a>
 <p>This repository includes the notebook file for my data analysis report on airline passenger satisfaction data.  My curiosity on this topic stemmed from the fact that
@@ -12,3 +11,4 @@ and has 103904 entries. <a href ='https://www.kaggle.com/datasets/mysarahmadbhat
   <li>Section 2: Data Visualization and Analysis</li>
   <li>Section 3: Interpretation and Evaluation of the findings</li>
 </ul>
+<img src ='https://pilotinstitute.com/wp-content/uploads/2023/02/How-Much-Do-Airplanes-Cost.jpg'>
