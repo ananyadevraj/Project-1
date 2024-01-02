@@ -9,7 +9,7 @@ and has 103904 entries. <a href ='https://www.kaggle.com/datasets/mysarahmadbhat
 <ul> The structure of my report is as follows:
   <li>Section 1: Data Cleaning </li>
   <li>Section 2: Data Visualization and Analysis</li>
-  <li>Section 3: Fitting a classification model to the dataset</li>
+  <li>Section 3: Fitting a logistic regression model to the dataset</li>
   <li>Section 4: Interpretation and Evaluation of the findings</li>
 </ul>
 <img src ='https://pilotinstitute.com/wp-content/uploads/2023/02/How-Much-Do-Airplanes-Cost.jpg'>
